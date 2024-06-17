@@ -1,1 +1,10 @@
 
+models:
+ - type: main
+   engine: nvidia_ai_endpoints
+   model: 'playground_mixtral_8x7b'
+  
+rails:
+  input:
+    flows:
+      - self check input
