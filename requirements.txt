@@ -1,0 +1,15 @@
+langchain_core
+langchain-community
+langchain
+langchain_openai
+langchain-nvidia-ai-endpoints
+python-dotenv
+
+docarray
+nemoguardrails
+
+
+
+
+
+
